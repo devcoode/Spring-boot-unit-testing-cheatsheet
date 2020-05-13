@@ -91,7 +91,7 @@ Use `.thenReturn(5).thenReturn(10)` will return twice in respective order like `
 
 Use `import static org.mockito.Mockito.anyInt;` for any Integer.This `anyInt` is called an agument matcher.
 
-![1.png](link)
+![1.png](https://github.com/harsh3105/Spring-boot-unit-testing-cheatsheet/blob/master/Screenshot/1.png)
 
 All the Agument Matcher which can be used in place of `anyInt` are shown in the image above.
 
